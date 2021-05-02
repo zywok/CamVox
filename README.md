@@ -22,7 +22,7 @@ The long depth detection range also beneﬁt a more efﬁcient mapping. Comparis
 
 **Developer:**  [Yuewen Zhu](https://github.com/zywok), [Chunran Zheng](https://github.com/xuankuzcr), [Chongjian Yuan](https://github.com/ChongjianYUAN), [Xu Huang](https://github.com/Xxxxhx).
 
-**Our related video**: our related videos are now available on [[YouTube Video](https://www.youtube.com/watch?v=AUnZNBB-uUE)] [[bilibili Video](https://www.bilibili.com/video/BV1fZ4y1V795/)] [[Google Driver](https://drive.google.com/file/d/1DKq6BoN_x7LYOMyX92Wqd6lYwfsZVOYt/view?usp=sharing)] 
+**Our related video**: our related videos are now available on [[YouTube Video](https://www.youtube.com/watch?v=AUnZNBB-uUE)] [[bilibili Video](https://www.bilibili.com/video/BV1fZ4y1V795/)] [[Google Driver](http://www.zywok.com:20441/index.php/s/de8ESepxDJFAOOK)] 
 
 **Paper:** our related paper has been posted on [arXiv](https://arxiv.org/abs/2011.11357), and final ICRA2021 accepted version can be available [CamVox.pdf](https://drive.google.com/file/d/1a53JMIM2C2uB9Xq77S-cztcBwx3TqSHB/view?usp=sharing).
 
